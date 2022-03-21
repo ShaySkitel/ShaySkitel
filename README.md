@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShaySkitel
-- 👀 I’m interested in ... well, programming
-- 🌱 I’m currently learning ... web development, always. its evolving all the time!
+- 👋 Hi, I’m @ShaySkitel.
+- 👀 I’m interested in fullstack web development.
+- 🌱 I’m currently learning ... you guessed it, fullstack web development!
 
 <!---
 ShaySkitel/ShaySkitel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
